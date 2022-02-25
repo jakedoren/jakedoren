@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jakedoren
 - 👀 I’m interested in ... Full-Stack Web Development
-- 🌱 I’m currently learning ... in depth Node.js development including tdd
-- 💞️ I’m looking to collaborate on ... Node.js projects
+- 🌱 I’m currently learning ... Java Springboot + Data Structures and Algo's
 - 📫 How to reach me ... https://jakedoren.com/
 
 <!---
